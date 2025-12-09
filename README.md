@@ -1,5 +1,5 @@
 # 📘 Simple Note App – Flutter
-
+Link video demo: https://docs.google.com/spreadsheets/d/1Ffm7vp3uYPSdrpAyikwxahYx0T5YougJC7T_QNgjFJg/edit?usp=sharing
 A simple and modern note-taking app built with Flutter.  
 The app is easy to use, fast, and supports dark mode, tags, password protection, and local storage.
 
