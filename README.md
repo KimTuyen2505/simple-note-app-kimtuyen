@@ -1,5 +1,5 @@
 # 📘 Simple Note App – Flutter
-Link video demo: https://docs.google.com/spreadsheets/d/1Ffm7vp3uYPSdrpAyikwxahYx0T5YougJC7T_QNgjFJg/edit?usp=sharing
+Link video demo: https://drive.google.com/file/d/19_592_f1xLzaeXOsKE7QTLhdO4iLHR27/view
 
 A simple and modern note-taking app built with Flutter.  
 
